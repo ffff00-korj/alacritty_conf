@@ -1,0 +1,7 @@
+font:
+  normal:
+    family: JetBrainsMono Nerd Font
+  size: 12
+import:
+  - ~/.config/alacritty/gruvbox-material.yml
+theme: gruvbox_material_hard_dark
